@@ -15,7 +15,7 @@ Antes de começarmos utilizar existem alguns termos que devem ser compreendidos 
 #### **OBSERVAÇÕES:** 
 1. Na criação de um SALT sempre utilize um valor aleatório, nunca um valor definido.
 
-- SHA256 Exemplo: [[SHA256]]
+- SHA256 Exemplo: (SHA256)[https://github.com/PawnTeam/Criptografia-Nativa-/blob/main/SHA256.md]
 
 ## Créditos
 - Carlos Victor: Responsavel por detalhar o SHA256
